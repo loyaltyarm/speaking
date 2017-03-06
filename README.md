@@ -15,4 +15,4 @@ Event | Location | Topic
 ### 2015
 Event | Location | Topic
  ----- | ----- | -----
-Enterprise Mobility Exchange | Las Vegas, NV | Enabling a Mobile Only Mindset
+[Enterprise Mobility Exchange](https://www.enterprisemobilityexchange.com) | Las Vegas, NV | Enabling a Mobile Only Mindset
