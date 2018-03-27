@@ -2,6 +2,11 @@
 -----
 Upcoming and past speaking engagements of [Nick Cobb](https://www.linkedin.com/in/loyaltyarm/)
 
+### 2018
+Event | Location | Topic | Co-Speakers |
+ ----- | ----- | ----- | ----- |
+[Lustre User Group](http://opensfs.org/events/lug-2018/) | Argonne, IL | Lustre at Scale for Self-Driving | [Jinshan Xiong](https://www.linkedin.com/in/jinshan-xiong-b64b5620) |
+
 ### 2017
 Event | Location | Topic | Co-Speakers |
  ----- | ----- | ----- | ----- |
